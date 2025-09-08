@@ -240,7 +240,7 @@ pnpm-lock.yaml
 
 **packages/main-app/vite.config.ts**
 
-```json
+```typescript
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { resolve } from 'path'
